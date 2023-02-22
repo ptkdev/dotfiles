@@ -1,0 +1,65 @@
+{
+  "id": "sponsors-badges",
+  "badges": [
+    {
+      "url": "https://www.paypal.me/ptkdev",
+      "color": "#005EA6",
+      "label": "donate",
+      "message": "paypal",
+      "title": "Donate Paypal",
+      "style": "for-the-badge",
+      "logo": "paypal",
+      "platform": "shields"
+    },
+    {
+      "url": "https://ko-fi.com/ptkdev",
+      "color": "#29abe0",
+      "label": "donate",
+      "message": "ko-fi",
+      "title": "Donate Ko-Fi",
+      "style": "for-the-badge",
+      "logo": "ko-fi",
+      "platform": "shields"
+    },
+    {
+      "url": "https://github.com/sponsors/ptkdev",
+      "color": "#ea4aaa",
+      "label": "donate",
+      "message": "sponsors",
+      "title": "Donate Github Sponsors",
+      "style": "for-the-badge",
+      "logo": "github",
+      "platform": "shields"
+    },
+    {
+      "url": "https://www.patreon.com/join/ptkdev",
+      "color": "#F87668",
+      "label": "donate",
+      "message": "patreon",
+      "title": "Donate Patreon",
+      "style": "for-the-badge",
+      "logo": "patreon",
+      "platform": "shields"
+    },
+    {
+      "url": "https://ptk.dev/img/icons/menu/bitcoin_wallet.png",
+      "color": "#E38B29",
+      "label": "BTC",
+      "message": "35jQmZCy4nsxoMM3QPFrnZePDVhdKaHMRH",
+      "title": "Donate Bitcoin",
+      "style": "flat-square",
+      "logo": "bitcoin",
+      "platform": "shields"
+    },
+    {
+      "url": "https://ptk.dev/img/icons/menu/ethereum_wallet.png",
+      "color": "#4E8EE9",
+      "label": "ETH",
+      "message": "0x8b8171661bEb032828e82baBb0B5B98Ba8fBEBFc",
+      "title": "Donate Ethereum",
+      "style": "flat-square",
+      "logo": "ethereum",
+      "platform": "shields"
+    }
+  ]
+}
